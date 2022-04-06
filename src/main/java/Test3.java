@@ -5,4 +5,5 @@ public class Test3 {
     // 33
     // 44
     // 55
+    // 6
 }
