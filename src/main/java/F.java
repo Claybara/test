@@ -7,10 +7,10 @@ public class F {
             System.out.println(i);
             // ddd
             System.out.println("ddd");
-            System.out.println("ddd")
-            System.out.println("ddd")
-            System.out.println("ddd")
-            System.out.println("ddd")
+            System.out.println("ddd");
+            System.out.println("ddd");
+            System.out.println("ddd");
+            System.out.println("ddd");
 
                     //asdasd
             //sdsss
