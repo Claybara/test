@@ -5,7 +5,18 @@ public class F {
 
         for (int i = 0; i < 9; i++) {
             System.out.println(i);
-            //
+            // ddd
+            System.out.println("ddd");
+            System.out.println("ddd");
+//            System.out.println("ddd");
+//            System.out.println("ddd");
+//            System.out.println("ddd");
+
+                    //asdasd
+            //sdsss
+            //ffffffffffff
+              //gggggggggggggggg
+            // 수정
         }
     }
 }
